@@ -17,3 +17,8 @@ output/leads*.csv
 .idea/
 .gemini/
 .system_generated/
+
+# Guides and Checklists
+first_client_checklist.md
+lead_intel_pipeline_guide.md
+
