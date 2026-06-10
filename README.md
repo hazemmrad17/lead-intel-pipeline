@@ -24,6 +24,9 @@ python main.py
 ## Built with
 Python · Selenium · BeautifulSoup · Pandas
 
+## Demo
+[▶ Watch 90-second demo](https://youtu.be/qRKQXG5AeLo)
+
 ## Author
 Hazem Mrad — AI & Data Engineer  
 [Portfolio](https://hazemmrad-io.vercel.app) · [LinkedIn](https://linkedin.com/in/hazem-mrad)
